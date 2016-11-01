@@ -30,7 +30,6 @@ public class test3 : MonoBehaviour {
 		for (int r = 1; r <= 100; r++) {
 			answer += r;
 		}
-
 		return answer;
 	}
 }

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class test1 : MonoBehaviour {
+public class test1_kiso : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
